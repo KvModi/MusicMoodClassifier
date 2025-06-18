@@ -68,7 +68,7 @@ fastparquet==0.2.1
 filelock==3.0.10
 flake8==3.7.0
 Flask==1.0.2
-Flask-Cors==3.0.7
+Flask-Cors==6.0.0
 Flask-Googletrans==0.9
 funcsigs==1.0.2
 future==0.17.1
@@ -169,7 +169,7 @@ pluggy==0.9.0
 ply==3.11
 prometheus-client==0.6.0
 prompt-toolkit==2.0.9
-protobuf==3.7.0
+protobuf==4.25.8
 psutil==5.6.1
 ptyprocess==0.6.0
 py==1.8.0
