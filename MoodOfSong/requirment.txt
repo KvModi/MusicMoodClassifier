@@ -137,7 +137,7 @@ mpmath==1.1.0
 msgpack==0.6.1
 multipledispatch==0.6.0
 navigator-updater==0.2.1
-nbconvert==5.4.1
+nbconvert==7.17.0
 nbformat==4.4.0
 nbsphinx==0.4.2
 networkx==2.2
@@ -169,7 +169,7 @@ pluggy==0.9.0
 ply==3.11
 prometheus-client==0.6.0
 prompt-toolkit==2.0.9
-protobuf==3.7.0
+protobuf==6.33.5
 psutil==5.6.1
 ptyprocess==0.6.0
 py==1.8.0
